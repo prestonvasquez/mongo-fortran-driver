@@ -4,7 +4,7 @@ mongo-fortran-driver provides a Fortran interface to the [MongoDB C Driver](http
 
 ## Usage 
 
-```fortran
+```f90
 program main 
   use mongo
   use bson 
