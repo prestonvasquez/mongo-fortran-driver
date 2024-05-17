@@ -27,7 +27,7 @@ program main
     stop
   endif
 
-  ! Create a databse
+  ! Create a database
   db_ptr = client_get_database(client_ptr, 'db')
 
   ! Ping the server
